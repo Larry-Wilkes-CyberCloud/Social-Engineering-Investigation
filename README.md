@@ -36,7 +36,7 @@ Email #2
 ![Email 2](https://github.com/Larry-Wilkes-CyberCloud/Social-Engineering-Investigation/assets/93053015/87f66ae2-a81c-45b2-a8ac-ae962b5e5c2e)
 
 Is this email Safe or Malicious? <br>
-Malicious	<li>•	The attached URL is from Russia.</li>
+Malicious	<li>The attached URL is from Russia.</li>
 <li>The email sender is requesting the user download a file with fairly generic justification.</li>
 <li>This is enough indicators for us to assume that the link is probably malicious and should be treated as such.</li>
 <li>Overall the email is not very professional. It is far too generic using terms that could apply to almost</li>
