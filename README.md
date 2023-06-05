@@ -42,5 +42,49 @@ Malicious
 <li>This is enough indicators for us to assume that the link is probably malicious and should be treated as such.</li>
 <li>Overall the email is not very professional. It is far too generic using terms that could apply to almost</li>
 
+
 <b>Email #3</b>
+
+![Email 3](https://github.com/Larry-Wilkes-CyberCloud/Social-Engineering-Investigation/assets/93053015/82f96857-f0b7-43d3-827b-344880882b4a)
+
+Is this email Safe or Malicious?	<br>
+Malicious
+<li> The email sender is requesting the user download a file with fairly generic justification.</li>
+<li> This is enough indicators for us to assume that the link is probably malicious and should be treated as such.</li>
+
+<b>Email #4</b>
+
+![Email 4](https://github.com/Larry-Wilkes-CyberCloud/Social-Engineering-Investigation/assets/93053015/774a4eef-8a67-4547-a470-cfdce304f474)
+
+Is this email Safe or Malicious?<br>
+Malicious	
+<li>Too Many FWD messages.</li>
+
+<b> Email #5 </b>
+
+Is this email Safe or Malicious?<br>
+Malicious	
+<li>Law Enforcement agencies will never email you about an invesigation. </li>
+
+<b> Email #6 </b>
+
+![Email 6](https://github.com/Larry-Wilkes-CyberCloud/Social-Engineering-Investigation/assets/93053015/2e92e3d9-9f70-4684-8f30-3ed2b18a1dab)
+
+Is this email Safe or Malicious?<br>
+Safe
+<li>Appears to be email between co-workers</li>
+
+<b> Email #7</b>
+
+![Email 7](https://github.com/Larry-Wilkes-CyberCloud/Social-Engineering-Investigation/assets/93053015/adb11cbc-d89d-4551-a17f-a487315dce9c)
+
+Is this email Safe or Malicious?	<br>
+Malicious
+<li>This is enough indicators for us to assume that the link is probably malicious and should be treated as such.</li>
+
+
+
+
+
+
 
