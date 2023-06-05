@@ -28,5 +28,5 @@ Email #1
 
 ![Email 1](https://github.com/Larry-Wilkes-CyberCloud/Social-Engineering-Investigation/assets/93053015/5d7208dd-521f-40a7-8ef9-c40bcbf442f5)
 
-Is this email Safe or Malicious?	My Analysis
-Malicious	                       •	The name the email uses isn’t consistent with the display name.
+Is this email Safe or Malicious?	
+Malicious	                •	The name the email uses isn’t consistent with the display name.
