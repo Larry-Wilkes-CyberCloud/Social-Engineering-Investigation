@@ -23,6 +23,8 @@ If you are unsure if the email is really from ANZ contact the Customer Service C
 I have been assigned 7 emails to investigate. Some of these emails may contain content which can be classed as malicious, due to a number of reasons. They may contain malicious attachments, suspicious links, or Phishing attempts to gather private account information from the user.
 
 You are expected to report your findings on each email, so that we can either block or release these emails to the users.
+<br>
+<br>
 
 <b>Email #1 </b>
 
@@ -30,6 +32,8 @@ You are expected to report your findings on each email, so that we can either bl
 
 Is this email Safe or Malicious?	<br>
 Malicious	               <li> The name the email uses isn’t consistent with the display name.</Li>
+<br>
+<br>
 
 <b>Email #2</b>
 
@@ -41,7 +45,8 @@ Malicious
 <li>The email sender is requesting the user download a file with fairly generic justification.</li>
 <li>This is enough indicators for us to assume that the link is probably malicious and should be treated as such.</li>
 <li>Overall the email is not very professional. It is far too generic using terms that could apply to almost</li>
-
+<br>
+<br>
 
 <b>Email #3</b>
 
@@ -51,6 +56,8 @@ Is this email Safe or Malicious?	<br>
 Malicious
 <li> The email sender is requesting the user download a file with fairly generic justification.</li>
 <li> This is enough indicators for us to assume that the link is probably malicious and should be treated as such.</li>
+<br>
+<br>
 
 <b>Email #4</b>
 
@@ -59,12 +66,17 @@ Malicious
 Is this email Safe or Malicious?<br>
 Malicious	
 <li>Too Many FWD messages.</li>
+<br>
+<br>
 
 <b> Email #5 </b>
 
 Is this email Safe or Malicious?<br>
 Malicious	
 <li>Law Enforcement agencies will never email you about an invesigation. </li>
+
+<br>
+<br>
 
 <b> Email #6 </b>
 
@@ -73,6 +85,8 @@ Malicious
 Is this email Safe or Malicious?<br>
 Safe
 <li>Appears to be email between co-workers</li>
+<br>
+<br>
 
 <b> Email #7</b>
 
