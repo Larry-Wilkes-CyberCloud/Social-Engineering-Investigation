@@ -29,7 +29,7 @@ Email #1
 ![Email 1](https://github.com/Larry-Wilkes-CyberCloud/Social-Engineering-Investigation/assets/93053015/5d7208dd-521f-40a7-8ef9-c40bcbf442f5)
 
 Is this email Safe or Malicious?	<br>
-Malicious	               <li> •	The name the email uses isn’t consistent with the display name.</Li>
+Malicious	               <li> The name the email uses isn’t consistent with the display name.</Li>
 
 Email #2
 
@@ -37,7 +37,7 @@ Email #2
 
 Is this email Safe or Malicious? <br>
 Malicious	<li>•	The attached URL is from Russia.</li>
-<li>•	The email sender is requesting the user download a file with fairly generic justification.</li>
-<li>•	This is enough indicators for us to assume that the link is probably malicious and should be treated as such.</li>
-<li>•	Overall the email is not very professional. It is far too generic using terms that could apply to almost</li>
+<li>The email sender is requesting the user download a file with fairly generic justification.</li>
+<li>This is enough indicators for us to assume that the link is probably malicious and should be treated as such.</li>
+<li>Overall the email is not very professional. It is far too generic using terms that could apply to almost</li>
 
