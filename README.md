@@ -37,7 +37,7 @@ Email #2
 
 Is this email Safe or Malicious? <br>
 Malicious	•	The attached URL is from Russia.
-•	The email sender is requesting the user download a file with fairly generic justification.
-•	This is enough indicators for us to assume that the link is probably malicious and should be treated as such.
-•	Overall the email is not very professional. It is far too generic using terms that could apply to almost
+<li>•	The email sender is requesting the user download a file with fairly generic justification.</li>
+<li>•	This is enough indicators for us to assume that the link is probably malicious and should be treated as such.</li>
+<li>•	Overall the email is not very professional. It is far too generic using terms that could apply to almost</li>
 
